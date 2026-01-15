@@ -1,0 +1,13 @@
+---
+title: "Welcome To My Blog"
+author: "Tristan O'Malley"
+date: "2025-12-16"
+categories: [news]
+---
+
+This is the first post to my blog. Welcome!
+Sophie Kasdorf and I have been talking about getting a website to represent us online.
+Here is mine! The picture is use working on those sites at Olies on campus.
+
+![](thumbnail.jpg)
+

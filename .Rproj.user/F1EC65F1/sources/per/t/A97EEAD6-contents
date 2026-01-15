@@ -1,0 +1,11 @@
+---
+title: "Thermal preference machine"
+author: "Émile Vadboncoeur"
+date: "2025-12-16"
+categories: [news, machine, analysis]
+image: "image.jpg"
+---
+
+I am currently building a machine to automatically follow crickets along a thermal gradient. This will save a lot of measuring time and allow for the data to be treated directly in R.
+
+![](image.jpg)

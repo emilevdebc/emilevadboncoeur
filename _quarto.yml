@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs  
+
+website:
+  title: "Émile Vadboncoeur"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+    right:
+      - icon: twitter-x
+        href: https://x.com/EVadboncoeur
+      - icon: envelope
+        href: mailto:emilevadboncoeur@cmail.carleton.ca
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    include-after-body: after-body.html

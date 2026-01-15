@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Émile Vadboncoeur",
+    "section": "",
+    "text": "I’m Émile Vadboncoeur, a PhD candidate at Carleton University. I study thermal biology and how it interacts in multi-stressor context.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThermal preference machine\n\n\n\nnews\n\nmachine\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 16, 2025\n\n\nÉmile Vadboncoeur\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 16, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Eisenberg, R. M., R. M. Sandrelli, D. Tucker, J. Monk, D. Boyce, É. Vadboncoeur, J. A. Porter, and A. K. Gamperl. 2025. “The Thermal Dependent Biology of Cultured Lumpfish (Cyclopterus Lumpus Linnaeus 1758): Differences Due to Temperatures During Early Life and How Tolerance Is Measured.” Aquaculture 595 (January): 741694. https://doi.org/10.1016/j.aquaculture.2024.741694.\n\n\nIgnatz, Eric H., Rebeccah M. Sandrelli, Émile Vadboncoeur, Fábio S. Zanuzzo, Guy M. L. Perry, Matthew L. Rise, and A. Kurt Gamperl. 2023. “The Atlantic Salmon’s (Salmo Salar) Incremental Thermal Maximum Is a More Relevant and Sensitive Indicator of Family-Based Differences in Upper Temperature Tolerance Than Its Critical Thermal Maximum.” Aquaculture 574 (September): 739628. https://doi.org/10.1016/j.aquaculture.2023.739628.\n\n\nKong, Jacinta D, Marshall W Ritchie, Émile Vadboncoeur, Heath A MacMillan, and Susan M Bertram. 2025a. “Growth, Development, and Life History of a Mass-Reared Edible Insect, Gryllodes Sigillatus (Orthoptera: Gryllidae).” Journal of Economic Entomology, April, toaf073. https://doi.org/10.1093/jee/toaf073.\n\n\nKong, Jacinta D., Émile Vadboncoeur, Susan M. Bertram, and Heath A. MacMillan. 2025b. “Temperature-Dependence of Life History in an Edible Cricket: Implications for Optimising Mass-Rearing.” Current Research in Insect Science 7 (January): 100109. https://doi.org/10.1016/j.cris.2025.100109.\n\n\nRojas, Isis, Albert Caballero-Solares, Émile Vadboncoeur, Rebeccah M. Sandrelli, Jennifer R. Hall, Kathy A. Clow, Christopher C. Parrish, Matthew L. Rise, Andrew K. Swanson, and Anthony K. Gamperl. 2024. “Prolonged Cold Exposure Negatively Impacts Atlantic Salmon (Salmo Salar) Liver Metabolism and Function.” Biology 13 (7): 494. https://doi.org/10.3390/biology13070494.\n\n\nSandrelli, Rebeccah M., Émile Vadboncoeur, Sheldon George, Eric H. Ignatz, Andrew K. Swanson, and A. Kurt Gamperl. 2025. “Understanding How Winter Conditions in the North Atlantic Affect the Physiology and Behaviour of Atlantic Salmon in Sea-Cages.” Aquaculture 596 (February): 741777. https://doi.org/10.1016/j.aquaculture.2024.741777.\n\n\nVadboncoeur, Émile, Marie-Hélène Deschamps, Susan M. Bertram, and Heath A. MacMillan. 2025. “Temperature Outweighs Diet in Shaping Developmental Performance in Two Cricket Species via Growth Delays and Physiological Limits.” Journal of Experimental Biology 228 (24): jeb251472. https://doi.org/10.1242/jeb.251472.\n\n\nVadboncoeur, Émile, Charlotte Nelson, Kathy A. Clow, Rebeccah M. Sandrelli, Colin J. Brauner, Andrew K. Swanson, and A. Kurt Gamperl. 2023. “‘Cold Shock’ Has Few Physiological Effects on Cultured Atlantic Salmon (Salmo Salar) Acclimated to Low Temperatures.” Aquaculture 577 (December): 739900. https://doi.org/10.1016/j.aquaculture.2023.739900.\n\n\nVadboncoeur, Émile, Charlotte Nelson, Jennifer R. Hall, Kathy A. Clow, Rebeccah M. Sandrelli, Colin J. Brauner, Andrew K. Swanson, and A. Kurt Gamperl. 2023. “Lowering Temperature to 1 \\(^\\circ\\)C Results in Physiological Changes, Stress and Mortality in Cultured Atlantic Salmon (Salmo Salar).” Aquaculture 568 (April): 739313. https://doi.org/10.1016/j.aquaculture.2023.739313.\n\n\nVadboncoeur, Émile, Charlotte Nelson, Eric H. Ignatz, Kathy A. Clow, Rebeccah M. Sandrelli, Colin J. Brauner, Andrew K. Swanson, and Anthony Kurt Gamperl. 2024. “Increased Liver Size and Dysfunction, Ionoregulatory Disturbance and Opportunistic Infections in Atlantic Salmon ( Salmo Salar ) at Low Temperatures: A Case Study.” Aquaculture, Fish and Fisheries 4 (6): e70021. https://doi.org/10.1002/aff2.70021."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Thermal preference machine",
+    "section": "",
+    "text": "I am currently building a machine to automatically follow crickets along a thermal gradient. This will save a lot of measuring time and allow for the data to be treated directly in R."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post to my blog. Welcome! Sophie Kasdorf and I have been talking about getting a website to represent us online. Here is mine! The picture is use working on those sites at Olies on campus."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Émile Vadboncoeur, a PhD candidate in Biology at Carleton University (Ottawa, Canada). My research focuses on insect physiology and performance, with an emphasis on how temperature and nutrition shape growth, development, metabolism, and survival. I combine controlled rearing experiments with modelling approaches (e.g., growth curves and thermal performance curves) to connect individual physiology to production outcomes and broader questions in animal performance biology."
+  }
+]

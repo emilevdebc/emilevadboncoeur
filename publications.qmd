@@ -1,0 +1,12 @@
+---
+title: "Publications"
+bibliography: publications.bib
+nocite: |
+  @*
+format:
+  html:
+    include-after-body: after-body.html
+---
+
+::: {#refs}
+:::

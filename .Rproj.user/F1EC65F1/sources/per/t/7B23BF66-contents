@@ -1,0 +1,19 @@
+---
+title: "About"
+image: headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter-x
+      text: twitter-x
+      href: https://x.com/EVadboncoeur
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/%C3%A9mile-vadboncoeur-5522a78b/
+    - icon: github
+      text: Github
+      href: https://github.com/emilevdebc
+
+---
+
+I’m Émile Vadboncoeur, a PhD candidate in Biology at Carleton University (Ottawa, Canada). My research focuses on insect physiology and performance, with an emphasis on how temperature and nutrition shape growth, development, metabolism, and survival. I combine controlled rearing experiments with modelling approaches (e.g., growth curves and thermal performance curves) to connect individual physiology to production outcomes and broader questions in animal performance biology.
